@@ -9,13 +9,16 @@ This ecommerceBackend allows an internet retail company to use a backend e-comme
 ## Table of Contents
 
 Installation
-Usage
-Tests
-Credits
-Questions
-Installation
 
-To install this package, you will gather the files from the ecommerceBackend GitHub from my Respoitory. Once you have all of the files, navigate to your terminal and input 'npm install'. This will install the express, dotenv, mysql and sequelize packages from the package.json file.
+Usage
+
+Tests
+
+Credits
+
+Questions
+
+Installation
 
 ## Usage
 
