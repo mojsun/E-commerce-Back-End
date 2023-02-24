@@ -45,9 +45,10 @@ N/A
 
 ## Credits
 
-Thank you to my study partner Rebecca Lawrence and Cassie Watsonn!
+Thank you to my study partner Rebecca Lawrence(https://github.com/rkml14) and Cassie Watsonn (https://github.com/cassiewatsonn)!
 
 ## Questions
 
-my GitHub Profile
+my GitHub Profile https://github.com/mojsun
+
 For any additional questions, please contact me by email at m.khorashahi7@gmail.com!
