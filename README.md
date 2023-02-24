@@ -24,6 +24,11 @@ Installation
 
 Here is a video displaying how to application works: ecommerceBackend Video
 
+
+https://user-images.githubusercontent.com/122302309/221322399-f91f0d38-0311-4448-8345-6666ac62ebf8.mov
+
+
+
 After you have successfully installed the package (if you have not yet installed, please refer to Installation), use 'node server.js' OR 'npm start' to run the application in the terminal.
 
 ## License Description
